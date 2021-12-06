@@ -1,5 +1,5 @@
 # Inosphere
-                      Classification of radar returns from the ionosphere
+                      Classification of Radar returns from the Ionosphere
 
 Introduction to radar returns
 - The Goose Bay system consists of a phased array of 16 high-frequency antennas with a total transmitted power on the order of 6.4 kilowatts. 
