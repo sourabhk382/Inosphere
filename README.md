@@ -12,7 +12,7 @@ Introduction to Radar returns
 Methodology
 - Data pre-processing -  converting categorical values into numerical values.
 - Feature selection
-- ML model - fit logistic regression, SVM
+- ML model - fit Logistic Regression, Support Vector Machine(SVM)
 - Later, comparative analysis of both the models.
 
 Data
